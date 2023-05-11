@@ -9,6 +9,8 @@
 
 # IDEA
 .idea/
+server/target/
+model/target/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
