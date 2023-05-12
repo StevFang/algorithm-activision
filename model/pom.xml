@@ -9,7 +9,7 @@
         <version>2.7.11</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.education.ade</groupId>
+    <groupId>org.education.aa</groupId>
     <artifactId>model</artifactId>
     <version>1.0-SNAPSHOT</version>
 

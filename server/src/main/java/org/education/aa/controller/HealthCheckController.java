@@ -1,7 +1,7 @@
-package org.education.ade.controller;
+package org.education.aa.controller;
 
 import com.alibaba.fastjson.JSONObject;
-import org.education.ade.resp.BaseResp;
+import org.education.aa.resp.BaseResp;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

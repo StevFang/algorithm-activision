@@ -1,4 +1,4 @@
-package org.education.ade.config;
+package org.education.aa.config;
 
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelHandlerContext;

@@ -8,17 +8,17 @@
         <version>2.7.11</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.education.ade</groupId>
+    <groupId>org.education.aa</groupId>
     <artifactId>server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ade-server</name>
-    <description>algorithm dynamic effect</description>
+    <description>algorithm activision</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
     <dependencies>
         <dependency>
-            <groupId>org.education.ade</groupId>
+            <groupId>org.education.aa</groupId>
             <artifactId>model</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>

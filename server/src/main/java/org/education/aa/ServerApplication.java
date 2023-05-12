@@ -1,6 +1,6 @@
-package org.education.ade;
+package org.education.aa;
 
-import org.education.ade.config.SocketServer;
+import org.education.aa.config.SocketServer;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
